@@ -202,7 +202,7 @@ tqdm==4.39.0
 traitlets==4.3.3
 translatte==0.1
 unicodecsv==0.14.1
-urllib3==1.22
+urllib3==1.26.5
 vader-multi==3.2.2.1
 wcwidth==0.1.7
 webencodings==0.5.1
